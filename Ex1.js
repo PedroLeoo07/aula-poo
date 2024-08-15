@@ -1,4 +1,3 @@
-let livro = "Para que estou na terra??"
 
 const livroObjeto = new Object();
 
@@ -8,7 +7,6 @@ livroObjeto.ano = 2002
 
 livroObjeto.ano = 2003
 
-console.log(livro);
 console.log(livroObjeto);
 
 //Exercício 2
@@ -47,7 +45,7 @@ console.log(cachorro);
 
 const carro = new Object();
 
-carro.cor = "Prata"
+carro.cor = "Preto"
 carro.modelo = "Mustang GT"
 carro.ano = 2013
 
