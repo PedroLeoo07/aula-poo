@@ -51,6 +51,9 @@ carro.ano = 2013
 
 console.log(carro);
 
+carro.ano = 2017
+console.log(carro);
+
 //Exercício 6
 
 const produto = new Object();

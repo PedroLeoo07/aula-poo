@@ -11,3 +11,5 @@ const pessoaObjeto = {
 
 console.log(pessoa);
 console.log(pessoaObjeto);
+
+//Exemplo 2
